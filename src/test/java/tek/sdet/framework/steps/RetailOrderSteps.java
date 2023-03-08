@@ -7,7 +7,7 @@ import org.junit.Assert;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 
-public class RetailSteps extends CommonUtility{
+public class RetailOrderSteps extends CommonUtility{
 	POMFactory factory = new POMFactory();
 	
 	@Given("User is on retail website")
